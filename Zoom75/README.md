@@ -1,0 +1,1 @@
+![zoom75](https://github.com/momoitin/keyboards/blob/main/image.jpg?raw=true)
