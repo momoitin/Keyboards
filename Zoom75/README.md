@@ -1,1 +1,1 @@
-![zoom75](https://github.com/momoitin/keyboards/blob/main/image.jpg?raw=true)
+![zoom75](https://github.com/momoitin/Keyboards/blob/main/Zoom75/Zoom75.jpg?raw=true)
