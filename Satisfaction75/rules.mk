@@ -24,7 +24,7 @@ NKRO_ENABLE = yes           # Enable N-Key Rollover
 ENCODER_ENABLE = yes
 OLED_ENABLE = yes
 OLED_DRIVER_ENABLE = yes
-OLED_DRIVER = SSD1306
+OLED_DRIVER = ssd1306
 VIA_ENABLE = yes
 WPM_ENABLE = yes
 
